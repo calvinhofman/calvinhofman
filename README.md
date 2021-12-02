@@ -13,8 +13,10 @@ Welcome to my GitHub
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=calvinhofman&count_private=true&theme=synthwave">
   </a>
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhofman&layout=compact&theme=synthwave)](https://github.com/calvinhofman/)
 </h2>
 
 
+<div align="center" >
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhofman&layout=compact&theme=synthwave)](https://github.com/calvinhofman/)
 
+</div>
