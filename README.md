@@ -14,3 +14,6 @@ Welcome to my GitHub
   </a>
   <br>
 </h2>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhofman&layout=compact&theme=synthwave)](https://github.com/calvinhofman/)
