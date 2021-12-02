@@ -8,16 +8,13 @@ Welcome to my GitHub
 
 <hr>
 
-<h2 align="center">
-  <a href="https://github.com/calvinhofman">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=calvinhofman&count_private=true&theme=synthwave">
-  </a>
-  <br>
-</h2>
+<div align="center">
 
 
-<div align="center" >
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhofman&theme=synthwave)](https://github.com/calvinhofman/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calvinhofman&show_icons=true&theme=synthwave&count_private=true)](https://github.com/calvinhofman)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhofman&layout=compact&theme=synthwave&count_private=true)](https://github.com/calvinhofman)
+
 
 
 </div>
