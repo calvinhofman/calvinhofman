@@ -17,6 +17,6 @@ Welcome to my GitHub
 
 
 <div align="center" >
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhofman&layout=compact&theme=synthwave)](https://github.com/calvinhofman/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calvinhofman&layout=compact&theme=synthwave)]
 
 </div>
